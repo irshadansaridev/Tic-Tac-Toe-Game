@@ -30,10 +30,6 @@ Tic-Tac-Toe-Game/
 └── README.md
 ```
 
-## 📸 Preview
-
-> Add a screenshot of your project here (optional).
-
 ## 📖 How to Run
 
 1. Clone the repository

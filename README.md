@@ -11,7 +11,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 - Interactive two-player gameplay
 - Responsive design
 - Win and draw detection
-- Restart game functionality
+- Restart and drow game functionality
 - Clean and user-friendly interface
 
 ## 🛠️ Technologies Used
